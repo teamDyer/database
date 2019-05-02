@@ -1,0 +1,6 @@
+
+
+PYTHONDONTWRITEBYTECODE=1;
+PYTHONPATH='lib';
+
+python3.5 master.py;
